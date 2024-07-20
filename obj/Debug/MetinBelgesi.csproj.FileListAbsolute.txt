@@ -1,0 +1,11 @@
+D:\Projects\MetinBelgesi\bin\Debug\MetinBelgesi.exe.config
+D:\Projects\MetinBelgesi\bin\Debug\MetinBelgesi.exe
+D:\Projects\MetinBelgesi\bin\Debug\MetinBelgesi.pdb
+D:\Projects\MetinBelgesi\obj\Debug\MetinBelgesi.csproj.AssemblyReference.cache
+D:\Projects\MetinBelgesi\obj\Debug\MetinBelgesi.csproj.SuggestedBindingRedirects.cache
+D:\Projects\MetinBelgesi\obj\Debug\MetinBelgesi.Form1.resources
+D:\Projects\MetinBelgesi\obj\Debug\MetinBelgesi.Properties.Resources.resources
+D:\Projects\MetinBelgesi\obj\Debug\MetinBelgesi.csproj.GenerateResource.cache
+D:\Projects\MetinBelgesi\obj\Debug\MetinBelgesi.csproj.CoreCompileInputs.cache
+D:\Projects\MetinBelgesi\obj\Debug\MetinBelgesi.exe
+D:\Projects\MetinBelgesi\obj\Debug\MetinBelgesi.pdb
